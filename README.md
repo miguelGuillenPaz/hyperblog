@@ -5,5 +5,7 @@ Un blog increíble para el curso de git y github
 En este curso podrás aprender lo siguiente:
 * Todos los comandos de git
 * El verdadero amor por las buenas prácticas
+* Creado por Miguel G.
 
 Quieres ver el **curso**
+
